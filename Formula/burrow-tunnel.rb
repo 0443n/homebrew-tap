@@ -13,8 +13,8 @@
 class BurrowTunnel < Formula
   desc "Turn any SSH server into a local proxy and a system-wide VPN"
   homepage "https://github.com/0443n/burrow"
-  url "https://github.com/0443n/burrow/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "12cce9db80e4fa15f69614e6c2607b4c465bc9b0f3684b166dddd7fc80194abb"
+  url "https://github.com/0443n/burrow/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "4fc2df2dcd7e1bf042417e45d4de3695784f844041722279c1aebfcede93881f"
   license "GPL-3.0-or-later"
   head "https://github.com/0443n/burrow.git", branch: "main"
 
