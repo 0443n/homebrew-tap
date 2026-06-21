@@ -3,9 +3,9 @@
 class BurrowTunnel < Formula
   desc "Turn any SSH server into a local proxy and a system-wide VPN"
   homepage "https://github.com/0443n/burrow"
-  version "0.3.1"
-  url "https://github.com/0443n/burrow/releases/download/v0.3.1/burrow-0.3.1-universal-apple-darwin.tar.gz"
-  sha256 "4d544c2ab659b4dbdb0cb8fffdb1c4f5e4b2c17e9fadcbeb185975b94a2c410d"
+  version "0.3.2"
+  url "https://github.com/0443n/burrow/releases/download/v0.3.2/burrow-0.3.2-universal-apple-darwin.tar.gz"
+  sha256 "152884f328117d0256bd20e31f4a322d623e2d9f3e69c9177be38983eb240ce7"
   license "GPL-3.0-or-later"
 
   depends_on :macos
